@@ -17,6 +17,8 @@ you can gain an extra life
 
 ## What do I need to play this amazing game?
 -a zip file to get you started
+
 -https://github.com/river-sneed/py.game_platformer.git
+
 -Goat run is made for python V 3.4.4 and py.game V 3.0
 
