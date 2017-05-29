@@ -1,0 +1,46 @@
+{
+	"name": "World 1",
+	"width": 32,
+	"height": 11,
+	"background-color": [130, 182, 255],
+	"background-img": "assets/backgrounds/sky_background.png",
+	"background-position": "top",
+	"background-repeat-x": 1,
+	"background-fill-y": 1,
+	"scenery-img": "assets/backgrounds/grass.png",
+	"scenery-position": "bottom",
+	"scenery-repeat-x": 1,
+	"scenery-fill-y": 1,
+	"music": "assets/sounds/farm_music.ogg",
+	"start": [4, 8],
+	"gravity": 1.0,
+	"terminal-velocity": 32,
+	"free_jump": 0,
+	"blocks": [[0, 9, "GTM"], [1, 9, "GTM"], [2, 9, "GTM"], [3, 9, "GTM"], [4, 9, "GTM"],
+	           [5, 9, "GTM"], [6, 9, "GTM"], [7, 9, "GTM"], [8, 9, "GTM"], [9, 9, "GTM"],
+						 [10, 9, "GTM"], [11, 9, "GTM"], [12, 9, "GTM"], [13, 9, "GTM"], [14, 9, "GTM"],
+						 [15, 9, "GTM"], [16, 9, "GTM"], [17, 9, "GTM"], [18, 9, "GTM"], [19, 9, "GTM"],
+						 [20, 9, "GTM"], [21, 9, "GTM"], [22, 9, "GTM"], [23, 9, "GTM"], [24, 9, "GTM"],
+						 [25, 9, "GTM"], [26, 9, "GTM"], [27, 9, "GTM"], [28, 9, "GTM"], [29, 9, "GTM"],
+						 [30, 9, "GTM"], [31, 9, "GTM"],
+
+
+
+						 [3, 7, "GFL"], [4, 7, "GFC"], [5, 7, "GFR"],
+
+						 [7, 5, "GFL"], [8, 5, "GFR"],
+
+						 [12, 7, "GL"], [14, 5, "GL"],
+
+						 [16, 3, "GFL"], [17, 3, "GFC"], [18, 3, "GFC"], [19, 3, "GFC"], [20, 3, "GFR"],
+
+						 [24, 8, "GTL"],  [25, 7, "GTL"], [25, 8, "GC"],
+						 [26, 6, "GTP"],  [26, 7, "GC"], [26, 8, "GC"]],
+	"bears": [[8, 4, "NB"], [13, 8, "NB"]],
+	"under_water_bears":[],
+	"farmers": [[18, 2]],
+  "coins": [[4, 5], [16, 6], [18, 7], [20, 7]],
+	"oneups": [[7, 4]],
+	"hearts": [[18, 2]],
+	"flag": [[30, 5], [30, 6], [30, 7], [30, 8]]
+}
