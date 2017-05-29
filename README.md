@@ -3,14 +3,14 @@
 ## Characters
 ###you get to play as a cute little baby goat named billy
 
-![](https://github.com/river-sneed/py.game_platformer/blob/master/assets/goat/goat_walk1.png = 200x200)
+![](https://github.com/river-sneed/py.game_platformer/blob/master/assets/goat/goat_walk1.png)
 
 ## Enemies
 ###Bears are cute until they bite
-![](https://github.com/river-sneed/py.game_platformer/blob/master/assets/enemies/bear-1.png = 150x150)
+![](https://github.com/river-sneed/py.game_platformer/blob/master/assets/enemies/bear-1.png)
 
 ###Farmers have pitch forks . . . Stabby Stabby
-![Image of Farmer](https://github.com/river-sneed/py.game_platformer/blob/master/assets/enemies/farmer_1.png = 150x150)
+![Image of Farmer](https://github.com/river-sneed/py.game_platformer/blob/master/assets/enemies/farmer_1.png)
 
 ## How do I play this fantastic creation?
 ###use the arrow keys to move side to side and use the space bar to jump 
