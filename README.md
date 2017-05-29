@@ -5,45 +5,17 @@ you get to play as a cute little baby goat named billy
 
 ![Image of Billy](https://github.com/river-sneed/py.game_platformer/blob/master/assets/goat/goat_walk1.png)
 
+## Enemies
+
+## How do I play this fantastic creation?
+-use the arrow keys to move side to side and use the space bar to jump 
+to ~~kill~~ smother cute little bears and farmers with love
+eat all the hay and get to the end of each level
+
+-collect hearts to stay alive and if you fill up the horn of life
+you can gain an extra life
+
+
 ## What do I need to play this amazing game?
 Goat run is made for python V 3.4.4 and py.game V 3.0
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/river-sneed/py.game_platformer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/river-sneed/py.game_platformer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 
