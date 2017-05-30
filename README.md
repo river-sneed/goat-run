@@ -7,10 +7,10 @@ you get to play as a cute little baby goat named billy
 
 ## Enemies
 Bears are cute until they bite
-![](https://github.com/river-sneed/goat_run/blob/master/assets/enemies/bear-1.png)
+![](/assets/enemies/bear-1.png)
 
 Farmers have pitch forks . . . Stabby Stabby
-![](https://github.com/river-sneed/py.game_platformer/blob/master/assets/enemies/farmer_1.png)
+![](/assets/enemies/farmer_1.png)
 
 ## How do I play this fantastic creation?
 use the arrow keys to move side to side and use the space bar to jump 
@@ -19,6 +19,9 @@ eat all the hay and get to the end of each level
 collect hearts to stay alive and if you fill up the horn of life
 you can gain an extra life
 
+## Look How cool it is!
+![](/game_play_screenshots/game_play_1.png)
+![](/game_play_screenshots/game_play_2.png)
 
 ## What do I need to play this amazing game?
 a zip file to get you started
