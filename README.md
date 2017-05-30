@@ -3,7 +3,7 @@
 ## Characters
 you get to play as a cute little baby goat named billy
 
-![](https://github.com/river-sneed/goat-run/blob/master/assets/goat/goat_walk1.png)
+![](/assets/goat/goat_walk1.png)
 
 ## Enemies
 Bears are cute until they bite
