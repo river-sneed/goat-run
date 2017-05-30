@@ -3,11 +3,11 @@
 	"width": 73,
 	"height": 11,
 	"background-color": [130, 182, 255],
-	"background-img": "assets/backgrounds/sky_background.png",
+	"background-img": "assets/backgrounds/sky_background.jpg",
 	"background-position": "top",
 	"background-repeat-x": 1,
 	"background-fill-y": 1,
-	"scenery-img": "assets/backgrounds/grass.png",
+	"scenery-img": "assets/backgrounds/grass_real.png",
 	"scenery-position": "bottom",
 	"scenery-repeat-x": 1,
 	"scenery-fill-y": 1,
@@ -19,7 +19,7 @@
 	"blocks": [[21, 2, "GFL"], [22, 2, "GFC"], [23, 2, "GFC"], [24, 2, "GFC"], [25, 2, "GFR"],
 						 [57, 2, "GL"],
 
-						 [18, 3, "GL"], [60, 3, "GL"], [63, 3, "GFL"], [64, 3, "GFR"],
+						 [18, 3, "GL"], [60, 3, "GL"],
 
 						 [14, 4, "GL"], [31, 4, "GFL"], [32, 4, "GFC"], [33, 4, "GFR"], [37, 4, "GFL"],
 						 [38, 4, "GFR"], [53, 4, "GFL"], [54, 4, "GFR"], [68, 4, "GTP"],
@@ -62,7 +62,7 @@
 
 	"bears": [[6, 6, "NB"], [18, 8, "NB"], [33, 3, "NB"], [49, 8, "NB"],
 	 					[54, 8, "NB"], [64, 7, "NB"]],
-	"under_water_bears": [],					
+	"under_water_bears": [],
 
 	"farmers": [[25, 2], [29, 5], [57, 5]],
   "coins": [[14, 3], [18, 2], [28, 1], [33, 7], [40, 2], [42, 5], [50, 2], [52, 8],
