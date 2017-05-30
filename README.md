@@ -15,9 +15,9 @@ Farmers have pitch forks . . . Stabby Stabby
 ## How do I play this fantastic creation?
 use the arrow keys to move side to side and use the space bar to jump 
 to ~~kill~~ smother cute little bears and farmers with love
-eat all the hay and get to the end of each level
+eat all the hay to fill Billy's tummy and get to the end of each level
 collect hearts to stay alive and if you fill up the horn of life
-you can gain an extra life
+you can gain an extra life by collecting med kits
 
 ## Look How cool it is!
 ![](/game_play_screenshots/game_play_1.png)
