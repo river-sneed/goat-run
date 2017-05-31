@@ -2,13 +2,16 @@
 
 ## Characters
 you get to play as a cute little baby goat named billy
+
 <img src="/assets/goat/goat_walk1.png" width="360">
 
 ## Enemies
-Bears are cute until they bite
+### Bears are cute until they bite
+
 <img src="/assets/enemies/bear-1.png" width="360">
 
-Farmers have pitch forks . . . Stabby Stabby
+### Farmers have pitch forks . . . Stabby Stabby
+
 <img src="/assets/enemies/farmer_1.png" width="360">
 
 ## How do I play this fantastic creation?
