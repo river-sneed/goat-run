@@ -2,15 +2,14 @@
 
 ## Characters
 you get to play as a cute little baby goat named billy
-
-![](/assets/goat/goat_walk1.png)
+<img src="/assets/goat/goat_walk1.png" width="360">
 
 ## Enemies
 Bears are cute until they bite
-![](/assets/enemies/bear-1.png)
+<img src="/assets/enemies/bear-1.png" width="360">
 
 Farmers have pitch forks . . . Stabby Stabby
-![](/assets/enemies/farmer_1.png)
+<img src="/assets/enemies/farmer_1.png" width="360">
 
 ## How do I play this fantastic creation?
 use the arrow keys to move side to side and use the space bar to jump 
@@ -20,8 +19,8 @@ collect hearts to stay alive and if you fill up the horn of life
 you can gain an extra life by collecting med kits
 
 ## Look How cool it is!
-![](/game_play_screenshots/game_play_1.png)
-![](/game_play_screenshots/game_play_2.png)
+<img src="/game_play_screenshots/game_play_1.png" width="360">
+<img src="/game_play_screenshots/game_play_2.png" width="360">
 
 ## What do I need to play this amazing game?
 a zip file to get you started
