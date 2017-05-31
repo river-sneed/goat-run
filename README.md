@@ -1,7 +1,7 @@
 # GOAT RUN
 
 ## Characters
-you get to play as a cute little baby goat named billy
+you get to play as a cute little baby goat :goat: named billy
 
 <img src="/assets/goat/goat_walk1.png" width="360">
 
